@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Corte de Control/1.0.0": {
+        "runtime": {
+          "Corte de Control.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Corte de Control/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\Win10\Desktop\Programs c#\Corte de Control\bin\Debug\netcoreapp3.1\Corte de Control.exe
+C:\Users\Win10\Desktop\Programs c#\Corte de Control\bin\Debug\netcoreapp3.1\Corte de Control.deps.json
+C:\Users\Win10\Desktop\Programs c#\Corte de Control\bin\Debug\netcoreapp3.1\Corte de Control.runtimeconfig.json
+C:\Users\Win10\Desktop\Programs c#\Corte de Control\bin\Debug\netcoreapp3.1\Corte de Control.runtimeconfig.dev.json
+C:\Users\Win10\Desktop\Programs c#\Corte de Control\bin\Debug\netcoreapp3.1\Corte de Control.dll
+C:\Users\Win10\Desktop\Programs c#\Corte de Control\bin\Debug\netcoreapp3.1\Corte de Control.pdb
+C:\Users\Win10\Desktop\Programs c#\Corte de Control\obj\Debug\netcoreapp3.1\Corte de Control.csprojAssemblyReference.cache
+C:\Users\Win10\Desktop\Programs c#\Corte de Control\obj\Debug\netcoreapp3.1\Corte de Control.AssemblyInfoInputs.cache
+C:\Users\Win10\Desktop\Programs c#\Corte de Control\obj\Debug\netcoreapp3.1\Corte de Control.AssemblyInfo.cs
+C:\Users\Win10\Desktop\Programs c#\Corte de Control\obj\Debug\netcoreapp3.1\Corte de Control.csproj.CoreCompileInputs.cache
+C:\Users\Win10\Desktop\Programs c#\Corte de Control\obj\Debug\netcoreapp3.1\Corte de Control.dll
+C:\Users\Win10\Desktop\Programs c#\Corte de Control\obj\Debug\netcoreapp3.1\Corte de Control.pdb
+C:\Users\Win10\Desktop\Programs c#\Corte de Control\obj\Debug\netcoreapp3.1\Corte de Control.genruntimeconfig.cache
